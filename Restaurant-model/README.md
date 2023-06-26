@@ -27,3 +27,8 @@ The Api follows the following data flow:
 2. **ArrayList** 
 
 ## Project Summary
+The Project is used as a simple Restaurant Listing api and helps store access or create Restaurant information . 
+
+## Installation and Usage
+
+Run code using an ide and check workings on poostman.
