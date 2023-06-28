@@ -1,7 +1,7 @@
 # User-Management-System
 
 ### Project 
--It is a user management application built using Spring Boot and Lombok.
+-It is a user management application built using Spring Boot Lombok and Validation.
 
 ### Tech Stack Used
 * Java
@@ -9,8 +9,9 @@
 * Spring Boot
 * Lombok
 * Validation
-* H2 database
-* Springdata jpa
+
+### Data Structure Used
+- ArrayList
 
 ### The User Management Application follows the following data -
 
