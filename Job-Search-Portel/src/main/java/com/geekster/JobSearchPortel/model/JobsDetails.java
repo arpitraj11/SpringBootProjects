@@ -20,6 +20,7 @@ public class JobsDetails {
 
     @Id
     private Integer id;
+    private Integer id;
     private String title;
     private String description;
     private String location;
