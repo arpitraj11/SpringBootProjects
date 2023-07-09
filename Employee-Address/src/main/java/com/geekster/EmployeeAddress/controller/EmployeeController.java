@@ -27,7 +27,7 @@ public class EmployeeController {
     }
 //    POST /employees - create a new employee
     @PostMapping("employee")
-    public String addEmployee(Employee employee){
+    public String addEmployee(@RequestBody Employee employee){
         return employeeService.addEmployee(employee);
     }
 //    PUT /employees/{id} - update an employee by id
