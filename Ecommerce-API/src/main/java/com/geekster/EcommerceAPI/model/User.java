@@ -34,4 +34,5 @@ public class User {
     @Size(max=12, min =10)
     @Digits(integer = 12, fraction = 0)
     private String userPhoneNumber;
+    private String userPhoneNumber;
 }
